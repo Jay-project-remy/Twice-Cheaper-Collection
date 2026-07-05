@@ -1,0 +1,1 @@
+console.log("Twice Cheaper Collection Website Loaded");
